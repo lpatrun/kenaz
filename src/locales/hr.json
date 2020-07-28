@@ -1,0 +1,48 @@
+{
+  "message": "pozdrav i18n !!",
+  
+    "news": "Vijesti",
+    "business": "Posao",
+    "sport": "Sport",
+    "health": "Zdravlje",
+    "tech": "Tehnologija",
+    "science": "Znanost",
+    "readArticle": "Pročitajte članak",
+    "seeAll": "Vidi sve",
+    "searchResults": "Rezultati pretrage",
+    "aboutKenaz": "Najpopularniji portal s vijestima na svijetu. Slobodno pročitajte sve što se događa...",
+    "newsletter": "Bilten",
+    "newsletterCTA": "Slobodno se predbilježite na naše vijesti i ostanite ažurni sa svijetom...",
+    "mailPlaceholder": "Vaš email",
+    "subscribe": "Predbilježba",
+    "tagsWidget": "Oznake",
+    "tags": {
+      "a": "hrana",
+      "b": "zdravlje",
+      "c": "cvijeće",
+      "d": "trava",
+      "e": "ptice",
+      "f": "tonik",
+      "g": "pjesma",
+      "h": "stol",
+      "i": "UN",
+      "j": "EU",
+      "k": "nebo",
+      "l": "avioni"
+    },
+    "kenazFooter": "Tipografija - Predlošci - Kontakt - 404 Stranica",
+    "kenazTemplate": "Kenaz predložak, Factory",
+    "featured": "Istaknuto",
+    "randomSport": "Nasumičan sport",
+    "recentlyViewed": "Nedavno gledano",
+    "search": "Traži",
+    "options": {
+      "business": "posao",
+      "entertainment": "zabava",
+      "general": "općenito",
+      "health": "zdravlje",
+      "science": "znanost",
+      "sports": "sport",
+      "technology": "tehnologija"
+    } 
+}
