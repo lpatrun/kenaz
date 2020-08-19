@@ -18,7 +18,9 @@
         <router-link tag="a" to="/news">{{ $t('seeAll') }}</router-link>
       </div>
       <div class="category__articles">
-        <router-link :to="'/news/article/' + index" @click.native="recentlyViewed(news)" class="category__article" v-for="(news, index) in selectedNews" :key="index">
+        <router-link :to="'/news/article/' + index"
+        @click.native="recentlyViewed(news)" class="category__article"
+        v-for="(news, index) in selectedNews" :key="index">
           <img :src="news.urlToImage" :alt="news.title | shortenTitleForAlt" />
           <p>{{ news.publishedAt | formatDate }}</p>
           <h4>{{ news.title}}</h4>
